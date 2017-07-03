@@ -4,6 +4,7 @@ en este repo se almacenara todo lo correspondiente  a lo realizado en el curso d
 
 # Enlaces de interes
 
+https://electron.atom.io/
 
 # Materiales disponibles
 https://github.com/platzi/curso-definitivo-javascript
